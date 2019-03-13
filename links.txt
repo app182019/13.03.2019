@@ -1,0 +1,4 @@
+https://docs.microsoft.com/en-us/dotnet/standard/exceptions/exception-class-and-properties
+
+https://docs.microsoft.com/en-us/dotnet/standard/exceptions/
+
